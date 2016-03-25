@@ -17,10 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
  
-    
-    
-    
-    
+    NSLog(@"asdoiajdio");
+     NSLog(@"asdoiajdio");
+     NSLog(@"asdoiajdio");
+     NSLog(@"asdoiajdio");
+     NSLog(@"asdoiajdio");
 }
 
 
