@@ -14,6 +14,8 @@
 		C286E2DA1CA50EED008534F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C286E2D81CA50EED008534F4 /* Main.storyboard */; };
 		C286E2DC1CA50EED008534F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C286E2DB1CA50EED008534F4 /* Assets.xcassets */; };
 		C286E2DF1CA50EED008534F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C286E2DD1CA50EED008534F4 /* LaunchScreen.storyboard */; };
+		D699DD091CA526410051CB32 /* pictureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D699DD081CA526410051CB32 /* pictureViewController.m */; };
+		D699DD0B1CA5265F0051CB32 /* 16pic_777853_b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D699DD0A1CA5265F0051CB32 /* 16pic_777853_b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,9 @@
 		C286E2E01CA50EED008534F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5558F77A6EB746A8AD801DC /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		CB49C86492CBE692D95AA0F2 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		D699DD071CA526410051CB32 /* pictureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pictureViewController.h; sourceTree = "<group>"; };
+		D699DD081CA526410051CB32 /* pictureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pictureViewController.m; sourceTree = "<group>"; };
+		D699DD0A1CA5265F0051CB32 /* 16pic_777853_b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16pic_777853_b.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +91,9 @@
 				C286E2D31CA50EED008534F4 /* AppDelegate.m */,
 				C286E2D51CA50EED008534F4 /* ViewController.h */,
 				C286E2D61CA50EED008534F4 /* ViewController.m */,
+				D699DD071CA526410051CB32 /* pictureViewController.h */,
+				D699DD0A1CA5265F0051CB32 /* 16pic_777853_b.jpg */,
+				D699DD081CA526410051CB32 /* pictureViewController.m */,
 				C286E2D81CA50EED008534F4 /* Main.storyboard */,
 				C286E2DB1CA50EED008534F4 /* Assets.xcassets */,
 				C286E2DD1CA50EED008534F4 /* LaunchScreen.storyboard */,
@@ -164,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C286E2DF1CA50EED008534F4 /* LaunchScreen.storyboard in Resources */,
+				D699DD0B1CA5265F0051CB32 /* 16pic_777853_b.jpg in Resources */,
 				C286E2DC1CA50EED008534F4 /* Assets.xcassets in Resources */,
 				C286E2DA1CA50EED008534F4 /* Main.storyboard in Resources */,
 			);
@@ -225,6 +234,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C286E2D71CA50EED008534F4 /* ViewController.m in Sources */,
+				D699DD091CA526410051CB32 /* pictureViewController.m in Sources */,
 				C286E2D41CA50EED008534F4 /* AppDelegate.m in Sources */,
 				C286E2D11CA50EED008534F4 /* main.m in Sources */,
 			);
