@@ -24,7 +24,9 @@
      NSLog(@"asdoiajdio");
 }
 
-
+-(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    NSLog(@"范开范开 亚梅");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
